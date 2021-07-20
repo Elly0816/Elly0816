@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elly
+- 👋 Hi, I’m Eleazar
 - 👀 I’m interested in python for data science and machine learning 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
