@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eleazar
-Budding fullstak developer
+- A budding fullstak developer
 
 
 <!---
