@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eleazar
-- A budding fullstak developer 🐍👨🏾‍💻
+- A fullstack developer 🐍👨🏾‍💻
 
 
 <!---
