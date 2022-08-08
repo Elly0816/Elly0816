@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on Personal Projects 
-- 🌱 I’m currently learning TypeScript 
+- 🌱 I’m currently learning TypeScript/Web3
 - 😄 Pronouns: He/Him 
 - 📫 Reach me at: <p align="center">
 <a href="https://twitter.com/elly0x"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
