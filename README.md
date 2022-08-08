@@ -5,7 +5,7 @@
 
 😁 About me
 ---
-##### I'm Eleazar (Elly) from Nigeria, I'm Full-Stack JavaScript and Python developer. 
+##### I'm Eleazar (Elly) from Nigeria and currently studying in Cyprus, I'm a Full-Stack JavaScript and Python developer. 
 ##### I enjoy learning languages and frameworks like React and Flask and the challenge of bringing ideas to life with code. 
 
 
