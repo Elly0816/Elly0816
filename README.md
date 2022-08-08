@@ -26,7 +26,9 @@
 
 ---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Elly0816)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/elly0x.)  
+
+🔢 Stats:
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elly0816)](https://github.com/anuraghazra/github-readme-stats)
 
