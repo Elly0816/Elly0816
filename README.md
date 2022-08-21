@@ -5,11 +5,11 @@
 
 😁 About me
 ---
-##### I'm Eleazar (Elly) from Nigeria and currently studying in Cyprus, I'm a Full-Stack JavaScript and Python developer. 
+##### I'm Eleazar, a Full-Stack JavaScript and Python developer. 
 ##### I enjoy learning languages and frameworks like React and Flask and the challenge of bringing ideas to life with code. 
 
 
-- 🔭 I’m currently working on Personal Projects 
+- 🔭 I’m currently improving my Data Structures and Algorithms
 - 🌱 I’m currently learning TypeScript/Web3
 - 😄 Pronouns: He/Him 
 - 📫 Reach me at: <p align="center">
