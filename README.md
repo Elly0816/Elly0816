@@ -5,7 +5,7 @@
 
 😁 About me
 ---
-##### I'm Eleazar, a Full-Stack JavaScript and Python developer. 
+##### I'm Eleazar, a Full-Stack TypeScript and Python developer. 
 ##### I enjoy learning languages and frameworks like React and Flask and the challenge of bringing ideas to life with code. 
 
 
