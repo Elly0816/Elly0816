@@ -5,12 +5,10 @@
 
 😁 About me
 ---
-##### I'm Eleazar, a Full-Stack TypeScript and Python developer. 
-##### I enjoy learning languages and frameworks like React and Flask and the challenge of bringing ideas to life with code. 
+##### I'm Eleazar, a Full-Stack TypeScript, Java and Python developer.  
 
 
-- 🔭 I’m currently improving my Data Structures and Algorithms
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently building
 - 📫 Reach me at: <p align="center">
 <a href="https://twitter.com/elly0x"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/eleazar-udo-20b347146/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
